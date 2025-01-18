@@ -6,8 +6,8 @@
 }
 
 body {
-  color: #ffffff;
-  background-color: #000;
+  color: black;
+ 
   font-family: "Space Grotesk";
   display: flex;
   justify-content: center;
@@ -384,6 +384,7 @@ input[type="file"] {
 }
 .hero p {
   font-size: 30px;
+  color:black;
   margin: 18px auto;
 }
 
