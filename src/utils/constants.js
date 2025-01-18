@@ -80,8 +80,8 @@ export const CONTACT_INFO = [
     title: "Faculty Coordinators",
     role: "staff",
     data: [
-      { name: "Mr . Wajid Khan" },
-      { name: "Mrs . Sonya" },
+      { name: "Mr . Gnanasekar" },
+      { name: "Mrs . Nabeena Ameen" },
     ],
   },
   {
