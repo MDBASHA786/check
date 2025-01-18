@@ -692,6 +692,7 @@ input[type="file"] {
 }
 
 .events {
+  color:black;
   position: relative;
   /*for treasure hunt*/
 }
