@@ -6,8 +6,8 @@
 }
 
 body {
-  color: black;
- 
+  color: white;
+  background-color:black;
   font-family: "Space Grotesk";
   display: flex;
   justify-content: center;
